@@ -1,3 +1,6 @@
 [submodule "power-slurm"]
 	path = power-slurm
 	url = git@github.com:pompp/power-slurm.git
+[submodule "geopm"]
+	path = geopm
+	url = git@github.com:r-sakamoto/geopm.git

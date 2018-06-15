@@ -1,0 +1,3 @@
+[submodule "power-slurm"]
+	path = power-slurm
+	url = git@github.com:pompp/power-slurm.git
